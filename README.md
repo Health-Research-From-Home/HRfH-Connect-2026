@@ -29,47 +29,49 @@
 The diversity of the **HRfH Connect** speakers reflected the wide range of expertise needed to create world-leading research. Thank you to:
 
 - **Professor Will Dixon**
-- **Max Carlish**  
-- **Seb Tucknott**  
-- **Dr Mary De Silva**  
-- **Professor Aiden Doherty**  
-- **Bruce Hellman**
-- **Dr Amos Folarin**  
-- **Professor Cathy Speed**  
-- **Dr Pauli Ohukainen** 
-- **Professor Claire Steves**
+- **Margaret Parkinson**  
+- **Leila Hamrang**  
+- **Will Warburton**  
+- **Josh Denny**  
+- **Michael Sinclair**
+- **Nick Taptiklis**  
+- **Matthew Thompson**  
+- **Fiona Bull** 
 
 ### Slides
 
 Please find the slides from the talks below (click to view/download):
 
-1. [Will Dixon - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Welcome%20%26%20Introduction%20to%20HRfH_Will%20Dixon.pptx)
-[PLACEHOLDER]
-2. [PLACEHOLDER]
-3. [PLACEHOLDER]
+1. [Will Dixon - Presentation Slides](slides/SpeakerPresentation/Intro%20to%20Health%20Research%20from%20Home%20-%20Will%20Dixon.pptx)
+2. [Will Warburton - Digital in the NHS](slides/SpeakerPresentation/Digital%20in%20the%2010%20Year%20Health%20Plan%20-%20Will%20Warburton.pptx)
+3. [Josh Denny - Beyond Steps Unlocking Multimodal Health Discovery with the World’s Largest Wearable Dataset](slides/SpeakerPresentation/Keynote%20I%20-%20Josh%20Denny.pdf)
+4. [HRfH News and Announcements](slides/SpeakerPresentation/HRfH%20News%20&%20Announcements.pptx)
+5. [Fiona Bull - Wearables at Scale: Technical progress and practical barriers for measuring physical activity in national population health surveillance](slides/SpeakerPresentation/Keynote%20II%20-%20Fiona%20Bull.pdf)
+6. [Michael Sinclair - Health Happens Somewhere: ​What Might GPS Data Tell Us?](slides/SpeakerPresentation/Tech%20Showcase%20-%20Michael%20Sinclair.pptx)
 
 ---
 
 ## Research Showcase Presentations
 
-We invited **14 talented researchers** to share their work in front of some of the biggest names in health research using smartphones and wearables.
+We invited **10 talented researchers** to share their work in front of some of the biggest names in health research using smartphones and wearables.
 
 ### Congratulations!
 
-- **Humphrey Curtis** and **Timothy Neate** (King's College London)  
-  *Winners of The Ken Rothman Award*  
-- **Michele Orini** (King's College London)  
-  *Audience Vote Winner, recipient of an Oura Ring*
+- **Hannah Wright** (University of Nottingham)  
+  *Winner of The Ken Rothman Award*  
 
 ### Showcase Slides
 
 Please find the Research Showcase slide presentations below (Not all presentations may be included.)
 
-1. [Charilaos Zisou - Showcase Slides](Slides/FirstEvent/ResearchShowcase/HRfH%20Connect%2007Feb25%20-%20Research%20Showcase_%20Charilaos%20Zisou.pptx)
-[PLACEHOLDER]
-2. [PLACEHOLDER]
-3. [PLACEHOLDER]
-
+1. [Kyra Delray - Analysing Effects of the Menstrual Cycle in Digital Health:​ Mental Health & Heart Rate Data](slides/ResearchShowcase/Research%20Showcase%20-%20Kyra%20Delray.pptx)
+2. [Chris Stone - ‘StopWatch’​- developing and evaluating the feasibility of a ​smartwatch-based smoking relapse intervention](slides/ResearchShowcase/Research%20Showcase%20-%20Chris%20Stone.pptx)
+3. [Luke Daines - Digital signatures of asthma](slides/ResearchShowcase/Research%20Showcase%20-%20Luke%20Daines.pptx)
+4. [Hannah Wright - Vibrotactile Interventions for Behavioural and Emotional Symptoms of Tourette syndrome (VIBES)](slides/ResearchShowcase/Research%20Showcase%20-%20Hannah%20Wright.pptx)
+5. [Demi Oshin - Smartphone-based location tracking to predict personal sound exposure at music venues and events](slides/ResearchShowcase/Research%20Showcase%20-%20Demi%20Oshin.pptx)
+6. [Leonid Bogachev - GlucoSentinel: Forecasting Extreme ​Glycaemia Episodes via CGM Data](slides/ResearchShowcase/Research%20Showcase%20-%20Leonid%20Bogachev.pptx)
+7. [Emma Howie - Wearable Tech in Surgery for​ Real-Time Cognitive Load Management](slides/ResearchShowcase/Research%20Showcase%20-%20Emma%20Howie.pptx)
+8. [Nick Hamilton - Smart Health](slides/ResearchShowcase/Research%20Showcase%20-%20Nick%20Hamilton.pptx)
 ---
 
 ## Contact

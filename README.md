@@ -47,7 +47,7 @@ Please find the slides from the talks below (click to view/download):
 3. [Josh Denny - Beyond Steps Unlocking Multimodal Health Discovery with the World’s Largest Wearable Dataset](Slides/SpeakerPresentation/JoshDenny.pdf)
 4. [HRfH News and Announcements](Slides/SpeakerPresentation/HRfH_News&Announcements.pptx)
 5. [Fiona Bull - Wearables at Scale: Technical progress and practical barriers for measuring physical activity in national population health surveillance](Slides/SpeakerPresentation/FionaBull.pdf)
-6. [Michael Sinclair - Health Happens Somewhere: ​What Might GPS Data Tell Us?](Slides/SpeakerPresentation/MichaelSinclair.pptx)
+6. [Michael Sinclair - Health Happens Somewhere: ​What Might GPS Data Tell Us?](Slides/SpeakerPresentation/MichaelSinclair.pdf)
 
 ---
 

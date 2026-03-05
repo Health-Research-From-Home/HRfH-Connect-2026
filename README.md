@@ -72,8 +72,8 @@ Please find the Research Showcase slide presentations below (Not all presentatio
 6. [Leonid Bogachev - GlucoSentinel: Forecasting Extreme ​Glycaemia Episodes via CGM Data](Slides/ResearchShowcase/LeonidBogachev.pptx)
 7. [Emma Howie - Wearable Tech in Surgery for​ Real-Time Cognitive Load Management](Slides/ResearchShowcase/EmmaHowie.pptx)
 8. [Nick Hamilton - Smart Health](Slides/ResearchShowcase/NickHamilton.pptx)
-9. [Charilos Zisou](Slides/ResearchShowcase/CharilaosZisou.pptx)
-10. [Zulqarnain Rashid](Slides/ResearchShowcase/ZulqarnainRashid.pptx)
+9. [Charilaos Zisou - Towards harmonised accelerometer-derived physical activity : A comparative study across wrist, thigh, and hip wear locations](Slides/ResearchShowcase/CharilaosZisou.pptx)
+10. [Zulqarnain Rashid- Participant Engagement and Data Compliance in Remote Measurement Studies](Slides/ResearchShowcase/ZulqarnainRashid.pptx)
 ---
 
 ## Contact
